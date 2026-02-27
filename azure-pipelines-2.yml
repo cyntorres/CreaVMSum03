@@ -8,7 +8,7 @@ stages:
     displayName: "Instalar Apache y Configurar Página"
     
     environment:
-      name: "Grupo02-VM" 
+      name: "VMSum1Grupo02" 
       resourceType: VirtualMachine 
 
     strategy:
